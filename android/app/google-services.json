@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "159757488928",
+    "firebase_url": "https://smart-token-technozer.firebaseio.com",
+    "project_id": "smart-token-technozer",
+    "storage_bucket": "smart-token-technozer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159757488928:android:c5b6aef39e6fd291a67d45",
+        "android_client_info": {
+          "package_name": "com.technozer.smart.token"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159757488928-vmro0mgortalgm5q7juh2jpo9j5v1p07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.technozer.smart.token",
+            "certificate_hash": "66d93a0d363c91e0183baeea61c12982699d11d8"
+          }
+        },
+        {
+          "client_id": "159757488928-igft3gkj4jao6scrpiotbkelk6gc32gp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs82ygv3Bvk8R0pqjx-a8HV_QL82u5X3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159757488928-igft3gkj4jao6scrpiotbkelk6gc32gp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
